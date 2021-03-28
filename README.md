@@ -1,6 +1,6 @@
 # CS50 course from Harvard University
 ### 🔗 Link: https://cs50.harvard.edu/x/2021/
-Here I would like to share some of the problem sets that I did while taking this course:
+Here I would like to share some of the problem sets that I did while taking the course CS50x Introduction to the intellectual enterprises of computer science and the art of programming:
   
 ## Problem set 1:
 
